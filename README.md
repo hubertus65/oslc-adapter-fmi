@@ -9,7 +9,7 @@ Date
 Authors
     Vorachet Jaroensawas, Koneksys (vorachet.jaroensawas@koneksys.com)
     Axel Reichwein, Koneksys (axel.reichwein@koneksys.com)
-    Hubertus Tummeshceit (hubertus.tummescheit@modelon.com)
+    Hubertus Tummescheit (hubertus.tummescheit@modelbased.cloud)
 ```
 
 ## Table of Contents
