@@ -3,7 +3,7 @@
 
 ```
 Version
-    1.1.0
+    1.2.0-dev (Update project to FMI 3.0)
 Date
     24 July 2016
 Authors
